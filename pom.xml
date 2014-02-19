@@ -4,7 +4,7 @@
 	<groupId>rchambers</groupId>
 	<artifactId>qunit-selenium-sample-project</artifactId>
 	<packaging>war</packaging>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1-SNAPSHOT</version>
 	<name>QUnit / Selenium JS Unit Testing project</name>
 	<url>https://github.com/ryan-chambers/qunit-selenium-sample-project</url>
 	<dependencies>
